@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: pedroxdmiguel-célula
+          github_user_name: pedroxdmiguel-célula 
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
